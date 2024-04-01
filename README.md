@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Luana Souza 👋
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luanaapms&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaapms&layout=compact&langs_count=7&theme=holi"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luanaapms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaapms&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Social
